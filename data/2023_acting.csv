@@ -1,0 +1,21 @@
+,Year,Category,Nominee,Female,Oscarstat_previousnominations_acting,Oscarstat_previouswins_acting,Winner,Oscarstat_totalnoms,Nom_Oscar_bestfilm,Win_BAFTA,Nom_BAFTA,Win_GoldenGlobe_comedy-leadacting,Nom_GoldenGlobe_comedy-leadacting,Win_GoldenGlobe_drama-leadacting,Nom_GoldenGlobe_drama-leadacting,Win_GoldenGlobe_supportingacting,Nom_GoldenGlobe_supportingacting,Win_Criticschoice,Nom_Criticschoice,Win_SAG_acting,Nom_SAG_acting,Win_SAG_bestcast,Nom_SAG_bestcast,Age_[0-25],Age_[25-35],Age_[35-45],Age_[45-55],Age_[55-65],Age_[65-75],Age_[75+],Rating_IMDB,Rating_rtaudience,Rating_rtcritic,Genre_action,Genre_adventure,Genre_comedy,Genre_crime,Genre_biography,Genre_drama,Genre_fantasy,Genre_sci-fi,Genre_music,Genre_mystery,Genre_romance,Genre_history,Genre_thriller,Genre_sport,Genre_family,Genre_war,Genre_filmnoir,Genre_western
+0,2023,Actor,Brendan Fraser,0,0,0,0,3,0,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,7.7,91,64,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,2023,Actor,Austin Butler,0,0,0,0,8,1,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,7.3,94,77,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2,2023,Actor,Colin Farrell,0,0,0,0,9,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,7.7,75,96,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,2023,Actor,Paul Mescal,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,7.6,82,96,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,2023,Actor,Bill Nighy,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,7.2,91,96,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,2023,Actress,Michelle Yeoh,1,0,0,0,11,1,0,1,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,7.8,86,94,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6,2023,Actress,Cate Blanchett,1,7,2,0,6,1,1,1,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,7.4,74,91,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+7,2023,Actress,Ana de Armas,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,5.5,36,42,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+8,2023,Actress,Andrea Riseborough,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7.1,87,93,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,2023,Actress,Michelle Williams,1,4,0,0,7,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,7.5,83,92,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+10,2023,Supporting Actor,Ke Huy Quan,0,0,0,0,11,1,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,7.8,86,94,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+11,2023,Supporting Actor,Brendan Gleeson,0,0,0,0,9,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,7.7,75,96,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+12,2023,Supporting Actor,Brian Tyree Henry,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.6,73,85,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+13,2023,Supporting Actor,Judd Hirsch,0,1,0,0,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,7.5,83,92,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,2023,Supporting Actor,Barry Keoghan,0,0,0,0,9,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,7.7,75,96,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+15,2023,Supporting Actress,Jamie Lee Curtis,1,0,0,0,11,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,7.8,86,94,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+16,2023,Supporting Actress,Angela Bassett,1,1,0,0,5,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,6.7,94,83,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+17,2023,Supporting Actress,Hong Chau,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,7.7,91,64,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+18,2023,Supporting Actress,Kerry Condon,1,0,0,0,9,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,7.7,75,96,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+19,2023,Supporting Actress,Stephanie Hsu,1,0,0,0,11,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,7.8,86,94,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0

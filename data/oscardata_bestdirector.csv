@@ -1,0 +1,315 @@
+Category,Film,Nominee,Winner,Year,Rating_IMDB,Rating_rtaudience,Rating_rtcritic,Oscarstat_totalnoms,Win_GoldenGlobe_bestdirector,Win_BAFTA,Win_DGA,Nom_GoldenGlobe_bestdirector,Nom_BAFTA,Nom_DGA,Oscarstat_previouswins_bestdirector,Oscarstat_previousnominations_bestdirector,Nom_Oscar_bestfilm,Genre_biography,Genre_crime,Genre_comedy,Genre_drama,Genre_horror,Genre_fantasy,Genre_sci-fi,Genre_mystery,Genre_music,Genre_romance,Genre_history,Genre_war,Genre_filmnoir,Genre_western,Genre_thriller,Genre_sport,Genre_family,Genre_action,Genre_adventure
+Director,The Apartment,Billy Wilder,1,1961,8.3,94,93,10,0,0,1,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Sons and Lovers,Jack Cardiff,0,1961,7.3,54,75,7,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Never on Sunday,Jules Dassin,0,1961,7.4,83,88,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Psycho,Alfred Hitchcock,0,1961,8.5,94,96,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Director,The Sundowners,Fred Zinnemann,0,1961,7.2,62,78,5,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,West Side Story,Robert Wise,1,1962,7.6,84,94,11,0,0,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,La Dolce Vita,Federico Fellini,0,1962,8.1,90,97,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Judgment at Nuremberg,Stanley Kramer,0,1962,8.3,93,90,11,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,The Hustler,Robert Rossen,0,1962,8,93,98,9,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Director,The Guns of Navarone,J. Lee Thompson,0,1962,7.6,86,95,7,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Director,Lawrence of Arabia,David Lean,1,1963,8.3,93,97,10,1,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,Divorce Italian Style,Pietro Germi,0,1963,8.3,93,100,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,To Kill a Mockingbird,Robert Mulligan,0,1963,8.3,93,91,8,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Miracle Worker,Arthur Penn,0,1963,8.1,88,100,5,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,David and Lisa,Frank Perry,0,1963,6.9,80,80,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Tom Jones,Tony Richardson,1,1964,6.7,58,83,10,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Director,America America,Elia Kazan,0,1964,7.9,86,71,4,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Cardinal,Otto Preminger,0,1964,6.8,67,60,6,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Director,Hud,Martin Ritt,0,1964,7.9,89,84,7,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,My Fair Lady,George Cukor,1,1965,7.9,90,96,12,1,0,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Director,Zorba the Greek,Michael Cacoyannis,0,1965,7.8,87,86,7,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Becket,Peter Glenville,0,1965,8,88,76,12,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,0,1965,8.5,94,99,4,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Mary Poppins,Robert Stevenson,0,1965,7.8,86,100,12,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Director,The Sound of Music,Robert Wise,1,1966,8,91,86,10,0,0,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Director,Doctor Zhivago,David Lean,0,1966,8,88,82,10,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Director,Darling,John Schlesinger,0,1966,7.2,71,70,5,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Woman in the Dunes,Hiroshi Teshigahara,0,1966,8.5,93,100,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,The Collector,William Wyler,0,1966,7.6,83,100,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,A Man for All Seasons,Fred Zinnemann,1,1967,7.9,87,82,8,1,0,1,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Blowup,Michelangelo Antonioni,0,1967,7.7,85,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Professionals,Richard Brooks,0,1967,7.4,82,93,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+Director,A Man and a Woman,Claude Lelouch,0,1967,7.7,87,77,4,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Who's Afraid of Virginia Woolf?,Mike Nichols,0,1967,8.1,91,95,13,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Graduate,Mike Nichols,1,1968,8,90,89,7,1,1,1,1,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,In Cold Blood,Richard Brooks,0,1968,8,88,91,4,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,In the Heat of the Night,Norman Jewison,0,1968,8,92,95,7,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Director,Guess Who's Coming to Dinner,Stanley Kramer,0,1968,7.8,85,68,10,0,0,0,1,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Bonnie and Clyde,Arthur Penn,0,1968,7.9,88,88,10,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Director,Oliver!,Carol Reed,1,1969,7.5,81,81,12,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Director,The Lion in Winter,Anthony Harvey,0,1969,8.1,90,91,7,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,2001: A Space Odyssey,Stanley Kubrick,0,1969,8.3,89,94,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Director,The Battle of Algiers,Gillo Pontecorvo,0,1969,8.1,95,99,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Romeo and Juliet,Franco Zeffirelli,0,1969,7.6,74,97,8,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Midnight Cowboy,John Schlesinger,1,1970,7.9,88,90,7,0,1,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Z,Costa Gavras,0,1970,8.2,93,95,5,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Butch Cassidy and the Sundance Kid,George Roy Hill,0,1970,8.1,92,89,6,0,1,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Alice's Restaurant,Arthur Penn,0,1970,6.3,60,67,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,"They Shoot Horses, Don't They?",Sydney Pollack,0,1970,7.9,89,84,9,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Patton,Franklin J. Schaffner,1,1971,8,94,95,10,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,M*A*S*H,Robert Altman,0,1971,7.6,83,87,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Fellini Satyricon,Federico Fellini,0,1971,7,75,75,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Love Story,Arthur Hiller,0,1971,6.9,75,57,7,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Women in Love,Ken Russell,0,1971,7.6,76,91,4,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The French Connection,William Friedkin,1,1972,7.8,87,98,8,1,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Director,The Last Picture Show,Peter Bogdanovich,0,1972,8.1,90,100,8,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Fiddler on the Roof,Norman Jewison,0,1972,8,92,81,8,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Director,A Clockwork Orange,Stanley Kubrick,0,1972,8.3,93,90,4,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Sunday Bloody Sunday,John Schlesinger,0,1972,7.2,72,92,4,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Cabaret,Bob Fosse,1,1973,7.9,87,97,10,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Deliverance,John Boorman,0,1973,7.7,82,93,3,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Director,The Godfather,Francis Ford Coppola,0,1973,9.2,98,99,11,1,0,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Sleuth,Joseph L. Mankiewicz,0,1973,8.1,90,96,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Director,The Emigrants,Jan Troell,0,1973,8,88,89,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,The Sting,George Roy Hill,1,1974,8.3,95,93,10,0,0,1,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Cries and Whispers,Ingmar Bergman,0,1974,8.2,91,89,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Last Tango in Paris,Bernardo Bertolucci,0,1974,7.1,76,79,2,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Exorcist,William Friedkin,0,1974,8,87,86,10,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,American Graffiti,George Lucas,0,1974,7.5,84,95,5,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Godfather Part II,Francis Ford Coppola,1,1975,9,97,97,11,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,A Woman Under the Influence,John Cassavetes,0,1975,8.2,92,95,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Lenny,Bob Fosse,0,1975,7.6,88,100,6,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Chinatown,Roman Polanski,0,1975,8.2,93,98,11,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Director,Day for Night,Franois Truffaut,0,1975,8.1,91,100,4,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,One Flew Over the Cuckoo's Nest,Milo Forman,1,1976,8.7,96,95,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Nashville,Robert Altman,0,1976,7.8,84,94,4,0,0,0,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Director,Amarcord,Federico Fellini,0,1976,8,91,91,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Barry Lyndon,Stanley Kubrick,0,1976,8.1,92,97,7,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Director,Dog Day Afternoon,Sidney Lumet,0,1976,8,90,95,6,0,0,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Rocky,John G. Avildsen,1,1977,8.1,69,93,9,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Director,Face to Face,Ingmar Bergman,0,1977,7.7,82,80,2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Network,Sidney Lumet,0,1977,8.1,93,91,10,1,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,All the President's Men,Alan J. Pakula,0,1977,8,92,93,8,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Seven Beauties,Lina Wertmller,0,1977,8,90,91,4,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Annie Hall,Woody Allen,1,1978,8.1,93,99,5,0,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Star Wars,George Lucas,0,1978,8.7,96,93,11,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Turning Point,Herbert Ross,0,1978,7,69,58,11,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Close Encounters of the Third Kind,Steven Spielberg,0,1978,7.7,85,96,9,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Julia,Fred Zinnemann,0,1978,7.4,66,73,11,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Deer Hunter,Michael Cimino,1,1979,8.2,92,94,9,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Interiors,Woody Allen,0,1979,7.5,79,77,5,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Coming Home,Hal Ashby,0,1979,7.3,83,81,8,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Director,Heaven Can Wait,Warren Beatty,0,1979,6.9,68,89,12,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Midnight Express,Alan Parker,0,1979,7.7,89,95,6,0,1,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Kramer vs. Kramer,Robert Benton,1,1980,7.8,89,88,9,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Apocalypse Now,Francis Ford Coppola,0,1980,8.5,94,97,8,1,1,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,All That Jazz,Bob Fosse,0,1980,7.8,86,85,9,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Director,La Cage aux Folles,douard Molinaro,0,1980,7.3,84,100,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Breaking Away,Peter Yates,0,1980,7.7,88,94,5,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Ordinary People,Robert Redford,1,1981,7.8,88,90,6,1,0,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Elephant Man,David Lynch,0,1981,8.2,93,90,8,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Tess,Roman Polanski,0,1981,7.3,78,85,6,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Stunt Man,Richard Rush,0,1981,7.2,75,89,3,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Director,Raging Bull,Martin Scorsese,0,1981,8.2,93,97,8,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Director,Reds,Warren Beatty,1,1982,7.5,82,94,12,1,0,1,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Chariots of Fire,Hugh Hudson,0,1982,7.2,80,83,7,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Director,Atlantic City,Louis Malle,0,1982,7.4,77,100,5,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,On Golden Pond,Mark Rydell,0,1982,7.7,87,92,10,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Raiders of the Lost Ark,Steven Spielberg,0,1982,8.5,96,94,9,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Director,Gandhi,Richard Attenborough,1,1983,8.1,92,88,11,1,1,1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,The Verdict,Sidney Lumet,0,1983,7.8,88,96,5,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Das Boot,Wolfgang Petersen,0,1983,8.4,96,98,6,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Director,Tootsie,Sydney Pollack,0,1983,7.4,81,89,9,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,E.T. the Extra-Terrestrial,Steven Spielberg,0,1983,7.9,72,98,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Director,Terms of Endearment,James L. Brooks,1,1984,7.4,84,88,11,0,0,1,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Tender Mercies,Bruce Beresford,0,1984,7.4,82,85,4,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Director,Fanny and Alexander,Ingmar Bergman,0,1984,8.1,94,100,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Silkwood,Mike Nichols,0,1984,7.2,78,75,5,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,The Dresser,Peter Yates,0,1984,7.7,88,100,5,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Amadeus,Milo Forman,1,1985,8.3,95,95,11,1,0,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Broadway Danny Rose,Woody Allen,0,1985,7.5,84,100,2,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Places in the Heart,Robert Benton,0,1985,7.3,82,96,7,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Killing Fields,Roland Joff,0,1985,7.9,92,93,7,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,A Passage to India,David Lean,0,1985,7.4,78,85,11,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Director,Out of Africa,Sydney Pollack,1,1986,7.2,83,56,11,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Kiss of the Spider Woman,Hctor Babenco,0,1986,7.4,81,88,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Prizzi's Honor,John Huston,0,1986,6.8,62,88,8,1,0,0,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Ran,Akira Kurosawa,0,1986,8.2,95,96,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Director,Witness,Peter Weir,0,1986,7.4,80,92,8,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Platoon,Oliver Stone,1,1987,8.1,93,88,8,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Hannah and Her Sisters,Woody Allen,0,1987,8,90,93,7,0,1,0,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,A Room with a View,James Ivory,0,1987,7.4,86,100,8,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Mission,Roland Joff,0,1987,7.5,87,65,7,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Director,Blue Velvet,David Lynch,0,1987,7.8,88,94,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Director,The Last Emperor,Bernardo Bertolucci,1,1988,7.8,88,92,9,1,0,1,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Hope and Glory,John Boorman,0,1988,7.4,83,94,5,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,My Life as a Dog,Lasse Hallstrm,0,1988,7.7,90,100,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Moonstruck,Norman Jewison,0,1988,7.1,80,92,6,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Fatal Attraction,Adrian Lyne,0,1988,6.9,72,78,6,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,Rain Man,Barry Levinson,1,1989,8,90,90,8,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,A Fish Called Wanda,Charles Crichton,0,1989,7.6,84,93,3,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Working Girl,Mike Nichols,0,1989,6.7,67,84,5,0,0,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Mississippi Burning,Alan Parker,0,1989,7.8,90,89,7,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,The Last Temptation of Christ,Martin Scorsese,0,1989,7.6,84,82,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Born on the Fourth of July,Oliver Stone,1,1990,7.2,76,90,8,1,0,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Crimes and Misdemeanors,Woody Allen,0,1990,8,91,93,3,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Henry V,Kenneth Branagh,0,1990,7.7,89,100,8,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Director,My Left Foot,Jim Sheridan,0,1990,7.9,92,97,5,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Dead Poets Society,Peter Weir,0,1990,8,92,85,4,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Dances with Wolves,Kevin Costner,1,1991,8,87,82,0,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Director,The Godfather Part III,Francis Ford Coppola,0,1991,7.6,78,67,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Grifters,Stephen Frears,0,1991,7,70,90,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,Reversal of Fortune,Barbet Schroeder,0,1991,7.3,77,94,3,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Director,Goodfellas,Martin Scorsese,0,1991,8.7,97,97,0,0,1,0,1,1,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Silence of the Lambs,Jonathan Demme,1,1992,8.6,95,95,7,0,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,Bugsy,Barry Levinson,0,1992,6.8,69,85,10,0,0,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Thelma and Louise,Ridley Scott,0,1992,7.4,82,83,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Boyz n the Hood,John Singleton,0,1992,7.8,93,96,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,JFK,Oliver Stone,0,1992,8,88,84,8,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Director,Unforgiven,Clint Eastwood,1,1993,8.3,93,95,9,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Director,The Player,Robert Altman,0,1993,7.6,85,98,3,0,1,0,1,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Scent of a Woman,Martin Brest,0,1993,8,92,88,6,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Howards End,James Ivory,0,1993,7.5,82,92,9,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Crying Game,Neil Jordan,0,1993,7.3,78,97,6,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Schindler's List,Steven Spielberg,1,1994,8.9,97,96,12,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Short Cuts,Robert Altman,0,1994,7.7,89,95,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Piano,Jane Campion,0,1994,7.6,86,90,8,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Director,The Remains of the Day,James Ivory,0,1994,7.9,89,97,8,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,In the Name of the Father,Jim Sheridan,0,1994,8.1,95,94,7,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Forrest Gump,Robert Zemeckis,1,1995,8.8,95,72,13,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Bullets over Broadway,Woody Allen,0,1995,7.5,83,96,7,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Three Colours: Red (Trois couleurs : Rouge),Krzysztof Kielowski,0,1995,8.1,94,100,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Quiz Show,Robert Redford,0,1995,7.5,87,96,4,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Pulp Fiction,Quentin Tarantino,0,1995,8.9,96,94,7,0,0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Braveheart,Mel Gibson,1,1996,8.4,85,78,10,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Leaving Las Vegas,Mike Figgis,0,1996,7.6,85,90,4,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Babe,Chris Noonan,0,1996,6.8,67,97,7,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Director,Il Postino: The Postman,Michael Radford,0,1996,7.8,94,93,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Dead Man Walking,Tim Robbins,0,1996,7.6,86,95,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The English Patient,Anthony Minghella,1,1997,7.4,83,84,12,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Director,Fargo,Joel Coen,0,1997,8.1,93,94,7,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,The People vs. Larry Flynt,Milo Forman,0,1997,7.3,80,87,2,1,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Shine,Scott Hicks,0,1997,7.7,90,91,7,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Director,Secrets and Lies,Mike Leigh,0,1997,8,91,94,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Titanic,James Cameron,1,1998,7.7,69,88,15,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Full Monty,Peter Cattaneo,0,1998,7.2,79,95,4,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Sweet Hereafter,Atom Egoyan,0,1998,7.7,86,100,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,L.A. Confidential,Curtis Hanson,0,1998,7.3,94,99,9,0,0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Director,Good Will Hunting,Gus Van Sant,0,1998,8.3,94,97,8,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Saving Private Ryan,Steven Spielberg,1,1999,8.6,95,92,11,1,0,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Life Is Beautiful,Roberto Benigni,0,1999,8.6,96,80,7,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Shakespeare in Love,John Madden,0,1999,7.2,80,92,13,0,0,0,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,The Thin Red Line,Terrence Malick,0,1999,7.6,80,78,7,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,The Truman Show,Peter Weir,0,1999,8.1,88,94,3,0,1,0,1,1,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Director,American Beauty,Sam Mendes,1,2000,8.4,93,88,8,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Cider House Rules,Lasse Hallstrm,0,2000,7.4,77,71,7,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Being John Malkovich,Spike Jonze,0,2000,7.8,87,93,3,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Insider,Michael Mann,0,2000,7.9,90,96,7,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,The Sixth Sense,M. Night Shyamalan,0,2000,8.1,89,85,6,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Director,Traffic,Steven Soderbergh,1,2001,7.6,85,92,5,0,0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,Billy Elliot,Stephen Daldry,0,2001,7.7,89,85,3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Director,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",Ang Lee,0,2001,7.9,86,97,0,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Gladiator,Ridley Scott,0,2001,8.5,87,76,12,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Director,Erin Brockovich,Steven Soderbergh,0,2001,7.3,80,84,5,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,A Beautiful Mind,Ron Howard,1,2002,8.2,93,75,8,0,0,1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Gosford Park,Robert Altman,0,2002,7.3,78,86,7,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Director,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,0,2002,8.8,95,91,12,0,1,0,1,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,Mulholland Drive,David Lynch,0,2002,8,88,82,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Black Hawk Down,Ridley Scott,0,2002,7.7,88,76,4,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Director,The Pianist,Roman Polanski,1,2003,8.5,95,96,7,0,1,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Director,Talk to Her,Pedro Almodvar,0,2003,8,93,92,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Director,The Hours,Stephen Daldry,0,2003,7.6,84,81,9,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Chicago,Rob Marshall,0,2003,7.2,83,86,12,0,0,1,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Gangs of New York,Martin Scorsese,0,2003,7.5,81,75,9,1,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Lord of the Rings: The Return of the King,Peter Jackson,1,2004,8.9,86,95,10,1,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,Lost in Translation,Sofia Coppola,0,2004,7.8,86,95,4,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Mystic River,Clint Eastwood,0,2004,8,89,87,6,0,0,0,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Director,City of God,Fernando Meirelles,0,2004,8.7,97,90,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Master and Commander: The Far Side of the World,Peter Weir,0,2004,7.4,80,85,10,0,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Director,Million Dollar Baby,Clint Eastwood,1,2005,8.1,90,91,7,1,0,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Director,Ray,Taylor Hackford,0,2005,7.7,87,81,6,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Director,Vera Drake,Mike Leigh,0,2005,7.7,84,92,3,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Sideways,Alexander Payne,0,2005,7.5,78,96,5,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Aviator,Martin Scorsese,0,2005,7.5,79,87,11,0,0,0,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Brokeback Mountain,Ang Lee,1,2006,7.7,82,87,8,1,1,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,"Good Night, and Good Luck",George Clooney,0,2006,7.5,83,93,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Crash,Paul Haggis,0,2006,7.8,88,75,5,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,Capote,Bennett Miller,0,2006,7.4,81,90,5,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Munich,Steven Spielberg,0,2006,7.6,83,78,5,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Director,The Departed,Martin Scorsese,1,2007,8.5,94,91,5,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,Letters from Iwo Jima,Clint Eastwood,0,2007,7.9,86,91,4,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Director,The Queen,Stephen Frears,0,2007,7.3,76,97,6,0,0,0,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,United 93,Paul Greengrass,0,2007,7.6,83,91,2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Director,Babel,Alejandro G. Iñárritu,0,2007,7.5,77,69,7,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,No Country for Old Men,Joel Coen,1,2008,8.1,86,93,8,0,1,1,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,There Will Be Blood,Paul Thomas Anderson,0,2008,8.1,86,91,8,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Michael Clayton,Tony Gilroy,0,2008,7.3,69,90,7,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Director,Juno,Jason Reitman,0,2008,7.5,88,94,4,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Diving Bell and the Butterfly,Julian Schnabel,0,2008,8,92,94,4,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Slumdog Millionaire,Danny Boyle,1,2009,8,90,92,8,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Reader,Stephen Daldry,0,2009,7.6,79,61,5,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Curious Case of Benjamin Button,David Fincher,0,2009,7.8,80,72,13,0,0,0,1,1,1,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Frost/Nixon,Ron Howard,0,2009,7.7,88,92,5,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Milk,Gus Van Sant,0,2009,7.6,89,94,8,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Hurt Locker,Kathryn Bigelow,1,2010,7.6,84,98,9,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Director,Avatar,James Cameron,0,2010,7.8,82,83,9,1,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+Director,Precious,Lee Daniels,0,2010,7.3,81,91,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Up in the Air,Jason Reitman,0,2010,7.4,79,91,6,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Inglourious Basterds,Quentin Tarantino,0,2010,8.3,87,89,8,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Director,The King's Speech,Tom Hooper,1,2011,8,92,95,12,0,0,1,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Black Swan,Darren Aronofsky,0,2011,8,84,87,5,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,True Grit,Joel Coen,0,2011,7.4,83,90,11,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Director,The Social Network,David Fincher,0,2011,7.7,86,96,8,1,1,0,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Fighter,David O. Russell,0,2011,7.9,89,90,7,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Director,The Artist,Michel Hazanavicius,1,2012,7.9,87,96,10,0,1,1,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Midnight in Paris,Woody Allen,0,2012,7.7,83,93,4,0,0,0,1,0,1,1,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Tree of Life,Terrence Malick,0,2012,6.8,60,84,3,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Descendants,Alexander Payne,0,2012,7.3,79,89,5,0,0,0,1,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Hugo,Martin Scorsese,0,2012,7.5,78,94,11,1,0,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Director,Life of Pi,Ang Lee,1,2013,7.9,84,87,10,0,0,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,Amour,Michael Haneke,0,2013,7.9,82,93,5,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Silver Linings Playbook,David O. Russell,0,2013,7.8,86,92,8,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Lincoln,Steven Spielberg,0,2013,7.4,80,90,12,0,0,0,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Beasts of the Southern Wild,Benh Zeitlin,0,2013,7.3,76,86,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,Gravity,Alfonso Cuarón,1,2014,7.8,80,96,10,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Director,12 Years a Slave,Steve McQueen,0,2014,8.1,90,96,9,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Nebraska,Alexander Payne,0,2014,7.7,83,91,6,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,American Hustle,David O. Russell,0,2014,7.3,74,93,10,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Wolf of Wall Street,Martin Scorsese,0,2014,8.2,82,77,5,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,1,2015,7.8,77,91,9,0,0,1,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Grand Budapest Hotel,Wes Anderson,0,2015,8.1,86,92,9,0,0,0,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,Boyhood,Richard Linklater,0,2015,7.9,81,98,6,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Foxcatcher,Bennett Miller,0,2015,7,66,88,5,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Director,The Imitation Game,Morten Tyldum,0,2015,8.1,91,90,8,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,The Revenant,Alejandro G. Iñárritu,1,2016,8,84,81,12,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Director,Room,Lenny Abrahamson,0,2016,8.2,93,94,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Spotlight,Tom McCarthy,0,2016,8.1,93,96,6,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,The Big Short,Adam McKay,0,2016,7.8,88,88,5,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Mad Max: Fury Road,George Miller,0,2016,8.1,86,97,10,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+Director,La La Land,Damien Chazelle,1,2017,8.5,85,93,14,1,1,1,1,1,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Director,Hacksaw Ridge,Mel Gibson,0,2017,8.3,93,86,6,0,0,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Moonlight,Barry Jenkins,0,2017,7.9,86,98,7,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Manchester by the Sea,Kenneth Lonergan,0,2017,8.1,81,96,5,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Arrival,Denis Villeneuve,0,2017,8.1,82,94,8,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Director,Dunkirk,Christopher Nolan,0,2018,8.1,81,92,8,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Director,Get Out,Jordan Peele,0,2018,7.7,87,99,4,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Director,Lady Bird,Greta Gerwig,0,2018,7.8,81,99,5,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Phantom Thread,Paul Thomas Anderson,0,2018,8.3,61,91,6,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Shape of Water,Guillermo del Toro,0,2018,7.8,92,78,13,1,1,1,1,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Director,Roma,Alfonso Cuarón,1,2019,8,96,83,10,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Favourite,Yorgos Lanthimos,0,2019,7.9,93,62,10,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,BlacKkKlansman,Spike Lee,0,2019,7.5,95,82,6,0,0,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Vice,Adam McKay,0,2019,7.1,66,55,8,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Cold War,Pawel Pawlikowski,0,2019,7.8,95,87,3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Director,Minari,Lee Isaac Chung,0,2021,7.6,88,98,6,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Promising Young Woman,Emerald Fennell,0,2021,7.5,88,91,5,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,Mank,David Fincher,0,2021,7,60,83,10,0,0,0,1,0,1,0,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Another Round,Thomas Vinterberg,0,2021,7.8,91,92,2,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Nomadland,Chloé Zhao,1,2021,7.5,82,94,6,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,The Irishman,Martin Scorsese,0,2020,8,86,96,10,0,0,0,1,1,1,1,8,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Joker,Todd Phillips,0,2020,8.6,88,68,11,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Director,1917,Sam Mendes,0,2020,8.5,88,89,10,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Director,Once Upon a Time in Hollywood,Quentin Tarantino,0,2020,7.7,70,85,10,0,0,0,1,1,1,0,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Parasite,Bong Joon-ho,1,2020,8.6,93,99,6,0,0,0,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Belfast,Kenneth Branagh,0,2022,7.3,92,87,7,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Drive My Car,Ryusuke Hamaguchi,0,2022,7.7,80,97,4,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Licorice Pizza,Paul Thomas Anderson,0,2022,7.5,65,91,3,0,0,0,0,1,1,0,2,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Power of the Dog,Jane Campion,1,2022,6.9,79,94,12,1,1,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Director,West Side Story,Steven Spielberg,0,2022,7.5,94,92,7,0,0,0,1,0,1,1,7,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,Belfast,Kenneth Branagh,0,2022,7.3,92,87,7,0,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Director,Drive My Car,Ryusuke Hamaguchi,0,2022,7.7,80,97,4,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Director,Licorice Pizza,Paul Thomas Anderson,0,2022,7.5,65,91,3,0,0,0,0,1,1,0,2,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Director,The Power of the Dog,Jane Campion,1,2022,6.9,79,94,12,1,1,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Director,West Side Story,Steven Spielberg,0,2022,7.5,94,92,7,0,0,0,1,0,1,1,7,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
